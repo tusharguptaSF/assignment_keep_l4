@@ -25,3 +25,9 @@
 	- **userId** will be passed as **query param** into request and will be used to fetch notes by **userId**.
 - API for updating a note **/api/v1/notes/:noteId**
 	- **noteId** will be passed as route parameters into url and will be used to update note by **id**
+
+### Note
+1. Keep L3 from Angular can be treated as UI of the given application
+2. All the backend code should be done using Typescript.
+3. postgres shoudl be the database of the application
+4. ORM should be used in the application
